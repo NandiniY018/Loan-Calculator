@@ -17,10 +17,10 @@ Responsive design using Bootstrap .
 
  Project Structure
   loan-calculator
-    │── index.html # Main HTML file
-    │── app.js # JavaScript loan calculation logic
-    │── load.gif # Loader animation image
-    │── README.md # Documentation file
+    - index.html # Main HTML file
+    - app.js # JavaScript loan calculation logic
+    - load.gif # Loader animation image
+    - README.md # Documentation file
 
 How to Use
 1. Open `index.html` in your browser.  
